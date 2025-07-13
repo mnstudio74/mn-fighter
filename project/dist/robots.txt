@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mnstudio-quotes.netlify.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin areas (when implemented)
+Disallow: /admin/
+Disallow: /api/admin/
